@@ -41,7 +41,8 @@ This study analyses how effective the financial fraud detection and internal con
 Google Forms • Microsoft Excel • Statistical analysis (Chi-Square, ANOVA, Correlation, Regression, T-Test)
 
 ## 📁 Files
-- `Project_Summary.pdf`: https://github.com/Meenakshisrinivasan07/A-STUDY-ON-FINANCIAL-FRAUD-DETECTION---KOLON-INDUSTRIES-INDIA-PRIVATE-LIMITED/tree/main
+- `Project_Summary.pdf`:https://github.com/Meenakshisrinivasan07/A-STUDY-ON-FINANCIAL-FRAUD-DETECTION---KOLON-INDUSTRIES-INDIA-PRIVATE-LIMITED/blob/e3bf3e9c6f467a475e3baa483caec6eb33917453/S.MEENAKSHI%20FINAL%20YEAR%20PROJECT%20REPORT.pdf
+- Project Presentation:https://github.com/Meenakshisrinivasan07/A-STUDY-ON-FINANCIAL-FRAUD-DETECTION---KOLON-INDUSTRIES-INDIA-PRIVATE-LIMITED/blob/e3bf3e9c6f467a475e3baa483caec6eb33917453/S.MEENAKSHI%20FINAL%20YEAR%20PROJECT%20PRESENTATION.pptx
 
 ## 👩‍🎓 Author
 **Meenakshi S** | [LinkedIn](https://www.linkedin.com/in/meenakshi-s-019928342)
